@@ -38,7 +38,7 @@ namespace Weiz.MQ
         public static void Subscribe(MyMessage msg, IProcessMessage ipro)
         {
             //// 创建消息bus
-            IBus bus = BusBuilder.CreateMessageBus();
+            IBus bus = BusBuilder.CreateMessageBus();  //建立连接
 
             try
             {
