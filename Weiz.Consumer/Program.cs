@@ -15,7 +15,7 @@ namespace Weiz.Consumer
             msg.MessageID = "1";
             msg.MessageRouter = "order.notice.lisi";
 
-            MQ.MQHelper.Subscribe(msg, order);
+            MQ.MQHelper.Subscribe(msg, order);   //接受消息
 
             Console.WriteLine("Listening for messages.");
 

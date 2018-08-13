@@ -9,7 +9,8 @@ namespace Weiz.Consumer
     {
         public void ProcessMsg(MQ.MyMessage msg)
         {
-            Console.WriteLine(msg.MessageBody);
+            string str = string.Format("{0},{1},{2},{3}", msg.MessageID, msg.MessageTitle, msg.MessageRouter, msg.MessageBody);
+            Console.WriteLine(str);
         }
     }
 }

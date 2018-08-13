@@ -28,3 +28,4 @@ D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.csproj.CoreCom
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.csproj.CopyComplete
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.dll
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.pdb
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\Weiz.MQ\obj\Debug\Weiz.MQ.csprojAssemblyReference.cache

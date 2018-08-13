@@ -29,11 +29,12 @@ namespace Weiz.MQ
 
             bus.Dispose();//与数据库connection类似，使用后记得销毁bus对象
         }
-
         /// <summary>
         /// 接收消息
         /// </summary>
-        /// <param name="msg"></param>
+        /// <param name="msg">消息</param>
+        /// <param name="ipro">委托</param>
+
         public static void Subscribe(MyMessage msg, IProcessMessage ipro)
         {
             //// 创建消息bus
