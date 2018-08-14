@@ -24,13 +24,15 @@ namespace TopicCustomerB
             {
                 using (IModel channel = connection.CreateModel())
                 {
+                    //声明交换器
                     channel.ExchangeDeclare(exchange: exchangeName, type: "topic", durable: true, autoDelete: false, arguments: null);
-
+                    //声明队列
                     String queueName = channel.QueueDeclare().QueueName;
-
+                    //绑定
                     channel.QueueBind(queue: queueName, exchange: exchangeName, routingKey: routeKeyName1, arguments: null);
                     channel.QueueBind(queue: queueName, exchange: exchangeName, routingKey: routeKeyName2, arguments: null);
-
+                    
+                    //定义接收消息的消费者逻辑
                     EventingBasicConsumer consumer = new EventingBasicConsumer(channel);
                     consumer.Received += (model, ea) =>
                     {

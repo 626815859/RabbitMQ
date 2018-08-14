@@ -29,8 +29,9 @@ namespace TopicCustomerA
 
                     channel.QueueBind(queue: queueName, exchange: exchangeName, routingKey: routeKeyName1, arguments: null);
 
+                    //定义接收消息的消费者逻辑
                     EventingBasicConsumer consumer = new EventingBasicConsumer(channel);
-                    consumer.Received += (model, ea) =>
+                    consumer.Received += (model, ea) => //事件
                     {
                         var body = ea.Body;
                         var message = Encoding.UTF8.GetString(body);
