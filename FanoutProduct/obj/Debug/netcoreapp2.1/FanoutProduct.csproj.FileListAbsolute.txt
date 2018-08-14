@@ -1,0 +1,11 @@
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\bin\Debug\netcoreapp2.1\FanoutProduct.deps.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\bin\Debug\netcoreapp2.1\FanoutProduct.runtimeconfig.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\bin\Debug\netcoreapp2.1\FanoutProduct.runtimeconfig.dev.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\bin\Debug\netcoreapp2.1\FanoutProduct.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\obj\Debug\netcoreapp2.1\FanoutProduct.csprojAssemblyReference.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\obj\Debug\netcoreapp2.1\FanoutProduct.csproj.CoreCompileInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\obj\Debug\netcoreapp2.1\FanoutProduct.AssemblyInfoInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\obj\Debug\netcoreapp2.1\FanoutProduct.AssemblyInfo.cs
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\bin\Debug\netcoreapp2.1\FanoutProduct.pdb
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\obj\Debug\netcoreapp2.1\FanoutProduct.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\FanoutProduct\obj\Debug\netcoreapp2.1\FanoutProduct.pdb

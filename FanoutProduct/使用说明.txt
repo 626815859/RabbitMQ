@@ -1,0 +1,6 @@
+﻿可以看到FanoutCustomerA和FanoutCustomerB收到的消息完全一致。注意以上代码FanoutProduct中并没有新建队列，所以先运行FanoutCustomerA和FanoutCustomerB，如果先运行FanoutProduct因为找不到绑定的队列数据就会丢失。 
+还有一种情况我们有可能随时增加一项处理机制，如果在声明queue时不指定名字，那么RabbitMQ会随机为我们生成一个名字，如果不指定queue为持久化队列那在消息为空并且订阅者为0时自动删除该队列。这样Queue挥之即来呼之即去。
+
+ 
+
+String queueName = channel.QueueDeclare().QueueName;
