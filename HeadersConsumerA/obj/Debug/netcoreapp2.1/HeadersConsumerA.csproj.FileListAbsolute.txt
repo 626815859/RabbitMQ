@@ -1,0 +1,11 @@
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\bin\Debug\netcoreapp2.1\HeadersConsumerA.deps.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\bin\Debug\netcoreapp2.1\HeadersConsumerA.runtimeconfig.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\bin\Debug\netcoreapp2.1\HeadersConsumerA.runtimeconfig.dev.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\bin\Debug\netcoreapp2.1\HeadersConsumerA.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\obj\Debug\netcoreapp2.1\HeadersConsumerA.csproj.CoreCompileInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\obj\Debug\netcoreapp2.1\HeadersConsumerA.AssemblyInfoInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\obj\Debug\netcoreapp2.1\HeadersConsumerA.AssemblyInfo.cs
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\bin\Debug\netcoreapp2.1\HeadersConsumerA.pdb
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\obj\Debug\netcoreapp2.1\HeadersConsumerA.csprojAssemblyReference.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\obj\Debug\netcoreapp2.1\HeadersConsumerA.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerA\obj\Debug\netcoreapp2.1\HeadersConsumerA.pdb
