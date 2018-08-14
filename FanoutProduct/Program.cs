@@ -11,7 +11,7 @@ namespace FanoutProduct
         static void Main(string[] args)
         {
             string exchangeName = "wytExchange-Fanout";
-            string routeKey = "wytRouteKey";
+            //string routeKey = "wytRouteKey";
             string message = "Hello World!";
            // string qName = "myQ2";
 

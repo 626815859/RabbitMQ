@@ -1,0 +1,1 @@
+﻿先运行TopicCustomerA和TopicCustomerB保持订阅状态。然后执行TopicProduct发布消息

@@ -1,0 +1,11 @@
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\bin\Debug\netcoreapp2.1\TopicCustomerB.deps.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\bin\Debug\netcoreapp2.1\TopicCustomerB.runtimeconfig.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\bin\Debug\netcoreapp2.1\TopicCustomerB.runtimeconfig.dev.json
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\bin\Debug\netcoreapp2.1\TopicCustomerB.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\obj\Debug\netcoreapp2.1\TopicCustomerB.csproj.CoreCompileInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\obj\Debug\netcoreapp2.1\TopicCustomerB.AssemblyInfoInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\obj\Debug\netcoreapp2.1\TopicCustomerB.AssemblyInfo.cs
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\bin\Debug\netcoreapp2.1\TopicCustomerB.pdb
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\obj\Debug\netcoreapp2.1\TopicCustomerB.csprojAssemblyReference.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\obj\Debug\netcoreapp2.1\TopicCustomerB.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\TopicCustomerB\obj\Debug\netcoreapp2.1\TopicCustomerB.pdb

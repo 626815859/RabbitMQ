@@ -27,7 +27,7 @@ namespace RabbitMQ2.SubscribeDemo
 
             using (IConnection connection = factory.CreateConnection())
             {
-                using (IModel channel = connection.CreateModel())
+                using (IModel channel = connection.CreateModel())   
                 {
                     //声明交换机  direct模式  消费者收到消息处理后 需要发送应答ack
                     channel.ExchangeDeclare(exchange: exchangeName, type: "direct", durable:false, autoDelete: false, arguments: null);
