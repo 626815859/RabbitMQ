@@ -2,7 +2,6 @@ D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\bin\Debug\netcoreapp2.1
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\bin\Debug\netcoreapp2.1\HeadersConsumerB.runtimeconfig.json
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\bin\Debug\netcoreapp2.1\HeadersConsumerB.runtimeconfig.dev.json
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\bin\Debug\netcoreapp2.1\HeadersConsumerB.dll
-D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\obj\Debug\netcoreapp2.1\HeadersConsumerB.csprojAssemblyReference.cache
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\obj\Debug\netcoreapp2.1\HeadersConsumerB.csproj.CoreCompileInputs.cache
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\obj\Debug\netcoreapp2.1\HeadersConsumerB.AssemblyInfoInputs.cache
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersConsumerB\obj\Debug\netcoreapp2.1\HeadersConsumerB.AssemblyInfo.cs

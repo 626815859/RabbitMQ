@@ -2,7 +2,6 @@ D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\bin\Debug\netcoreapp2.1\H
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\bin\Debug\netcoreapp2.1\HeadersProduct.runtimeconfig.json
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\bin\Debug\netcoreapp2.1\HeadersProduct.runtimeconfig.dev.json
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\bin\Debug\netcoreapp2.1\HeadersProduct.dll
-D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\obj\Debug\netcoreapp2.1\HeadersProduct.csprojAssemblyReference.cache
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\obj\Debug\netcoreapp2.1\HeadersProduct.csproj.CoreCompileInputs.cache
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\obj\Debug\netcoreapp2.1\HeadersProduct.AssemblyInfoInputs.cache
 D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\HeadersProduct\obj\Debug\netcoreapp2.1\HeadersProduct.AssemblyInfo.cs
