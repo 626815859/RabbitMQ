@@ -1,0 +1,5 @@
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ.Models\bin\Debug\RabbitMQ.Models.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ.Models\bin\Debug\RabbitMQ.Models.pdb
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ.Models\obj\Debug\RabbitMQ.Models.csproj.CoreCompileInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ.Models\obj\Debug\RabbitMQ.Models.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ.Models\obj\Debug\RabbitMQ.Models.pdb

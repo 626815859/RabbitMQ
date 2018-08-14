@@ -1,0 +1,12 @@
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\RabbitMQ2.PublishDemo.exe.config
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\RabbitMQ2.PublishDemo.exe
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\RabbitMQ2.PublishDemo.pdb
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\RabbitMQ.Client.dll
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\bin\Debug\RabbitMQ.Client.xml
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\obj\Debug\RabbitMQ2.PublishDemo.csprojAssemblyReference.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\obj\Debug\RabbitMQ2.PublishDemo.csproj.CoreCompileInputs.cache
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\obj\Debug\RabbitMQ2.PublishDemo.csproj.CopyComplete
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\obj\Debug\RabbitMQ2.PublishDemo.exe
+D:\wangpiao\Weiz.RabbitMQ\Weiz.RabbitMQ\RabbitMQ2.PublishDemo\obj\Debug\RabbitMQ2.PublishDemo.pdb

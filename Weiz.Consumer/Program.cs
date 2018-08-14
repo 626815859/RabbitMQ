@@ -12,7 +12,7 @@ namespace Weiz.Consumer
         {
             OrderProcessMessage order = new OrderProcessMessage();
             MQ.MyMessage msg = new MQ.MyMessage();
-            msg.MessageID = "1";
+            msg.MessageID = "2";
             msg.MessageRouter = "order.notice.lisi";
 
             MQ.MQHelper.Subscribe(msg, order);   //接受消息
