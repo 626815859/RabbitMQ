@@ -40,7 +40,7 @@ namespace RabbitMQ2.SubscribeDemo
 
                     //定义接收消息的消费者逻辑
                     EventingBasicConsumer consumer = new EventingBasicConsumer(channel);
-                    consumer.Received += (model, ea) =>
+                    consumer.Received += (model, ea) =>              //事件处理
                     {
                         Byte[] body = ea.Body;
                         String message = Encoding.UTF8.GetString(body);

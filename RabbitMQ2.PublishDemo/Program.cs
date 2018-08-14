@@ -24,17 +24,19 @@ namespace RabbitMQ2.PublishDemo
             factory.Password = "Wp15228211255";
             
 
-            using (var connection = factory.CreateConnection())
+            using (var connection = factory.CreateConnection())     //创建连接
             {
-                using (var channel = connection.CreateModel())
+                using (var channel = connection.CreateModel())     //创建信道
                 {
                     //声明交换机（名称：log，类型：fanout（扇出））
                     channel.ExchangeDeclare(exchange: exchangeName, type: "direct", durable: false, autoDelete: false, arguments: null);
 
-
+                   //声明队列
                     channel.QueueDeclare(qName, true, false, false, null);
 
+                    //绑定队列，交换机，rootkey
                     channel.QueueBind(qName, exchangeName, routeKey);
+
                     Byte[] body = Encoding.UTF8.GetBytes(message);
 
                     //消息推送
